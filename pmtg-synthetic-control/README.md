@@ -1,3 +1,3 @@
 # PMTG Synthetic Control (Chpt 3.) example
 
-![figs/original_trajectory.png]
+![https://github.com/codyly/pmtg/blob/main/pmtg-synthetic-control/figs/Trajecotry%20Eval.png] Test Result
